@@ -1,2 +1,2 @@
-# -rent-apartment
+# rent-apartment
 Alquiler de departamento
